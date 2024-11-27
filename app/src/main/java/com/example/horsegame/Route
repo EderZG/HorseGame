@@ -1,0 +1,30 @@
+1.- Mejoramos las funciones existentes
+2.- Mejoramos la UX de las funciones existentes
+3.- Anadimos nuevas funcionalidades
+
+ERORRES
+. 
+.
+.
+.
+.
+
+MEJORAS DE UX
+. un color para el punto actual y otro para el rastro
+. mostrar opciones de movimiento
+.
+.
+.
+
+FUNCIONALIDADES
+. Inicio aleatorio
+. poder mover el caballo (comprobando movimiento de L)
+. pintar niveles (y limpiarlos)
+. control de movimientos
+. control de opciones
+. control de tiempos
+. control de vidas
+. mostrar publicidad
+. permitir pagar para ser premium
+. habilitar accesos de premium a mas niveles y deshabilitar publicidad
+. opcion de compartir resultado
