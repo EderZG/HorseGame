@@ -36,7 +36,7 @@ android {
 }
 
 dependencies {
-
+    implementation ("androidx.test:runner:1.2.0@aar")
     implementation(libs.androidx.core.ktx)
     implementation(libs.androidx.appcompat)
     implementation(libs.material)
